@@ -11,9 +11,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado po
 
 ## 👨‍💻 Sobre mim
 
-- Atualmente, estou focado em desenvolvimento **full-stack**. # em analise ainda kkk.
+- Atualmente, estou focando em desenvolvimento **full-stack**. # em analise ainda kkk.
 - Sou apaixonado por criar soluções escaláveis e eficientes.
-- Gosto de trabalhar em projetos open-source e contribuir com comunidades tecnológicas.
+- Gosto de trabalhar em projetos open-source e contribuir com comunidades tecnológicas. 
 - No meu tempo livre, gosto de explorar novas tecnologias e acompanhar as tendências da indústria.
 
 ## 🎯 Meus Objetivos
